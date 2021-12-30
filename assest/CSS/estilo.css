@@ -1,0 +1,111 @@
+
+.body {
+    color: white;
+    font-weight: lighter;
+}
+
+.titulo {
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    max-width: 400px;
+    padding-top: 50px;
+    /* background-color:rgb(226, 226, 226); */
+}
+
+.row {
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+}
+
+.col-3{
+    background-color:rgb(226, 226, 226);
+    text-align: center;
+    padding: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+}
+
+.col-6{
+    background-color:rgb(226, 226, 226);
+    text-align: center;
+    padding: 10px;
+    border-bottom-left-radius: 15px;
+}
+
+.boton {
+    border-style: solid;
+    border-width: 0px;
+    border-color: white;
+    background-color:rgb(226, 226, 226);
+}
+
+#pantalla {
+    display: block;
+    overflow-y: scroll;
+    width: 400px;
+    height: 70px;
+    background-color: rgb(100, 100, 100);
+    padding: 5px;
+    padding-left: 10px;
+    font-size: 40px;
+    color: white;
+    font-weight: lighter;
+    border-top-left-radius:15px;
+    border-top-right-radius:15px;
+}
+
+#btnBorrar {
+    background-color: rgb(120, 120, 120);
+    color: white;
+    font-weight: lighter;
+}
+
+#btnMasMenos {
+    background-color: rgb(120, 120, 120);
+    color: white;
+    font-weight: lighter;
+}
+
+#btnPorcentaje {
+    background-color: rgb(120, 120, 120);
+    color: white;
+    font-weight: lighter;
+}
+
+#btnDividir {
+    background-color: rgb(253, 186, 0);
+    color:white;
+    font-weight: lighter;
+}
+
+#btnMultiplicar {
+    background-color: rgb(253, 186, 0);
+    color:white;
+    font-weight: lighter;
+}
+
+#btnRestar {
+    background-color: rgb(253, 186, 0);
+    color:white;
+    font-weight: lighter;
+}
+
+#btnSumar {
+    background-color: rgb(253, 186, 0);
+    color:white;
+    font-weight: lighter;
+}
+
+#btnResultado {
+    background-color: rgb(253, 186, 0);
+    color:white;
+    font-weight: lighter;
+    border-bottom-right-radius: 15px;
+}
+
+
